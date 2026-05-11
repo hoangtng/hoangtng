@@ -39,7 +39,7 @@ Campus food discovery app for UH Manoa students.
 
 ## Currently Looking For
 
-I am seeking new graduate Software Engineer, Full-Stack Engineer, Backend Engineer, or Frontend Engineer opportunities.
+I am seeking new graduate Software Engineer, Full-Stack Engineer, Backend Engineer opportunities.
 
 ## Connect
 
